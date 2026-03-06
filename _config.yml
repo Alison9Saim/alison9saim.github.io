@@ -1,0 +1,4 @@
+title: My Awesome Site
+description: A brief description of what I do.
+theme: minima # Or your chosen theme name
+remote_theme: pages-themes/cayman # If using a specific GH Pages theme
